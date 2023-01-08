@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kristansmout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kristansmout" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.instagram.com/kristansmout/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.instagram.com/kristansmout/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@kristansmout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kristansmout" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kristan-s-5801a4142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.instagram.com/kristansmout/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kristansmout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kristansmout" height="30" width="40" /></a>
 <a href="https://discord.gg/QCvZbFzasT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QCvZbFzasT" height="30" width="40" /></a>
 </p>
 
