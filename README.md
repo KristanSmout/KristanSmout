@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on [RobloxPy Rewrite](https://github.com/KristanSmout/RobloxPyOfficial)
 
-- 👨‍💻 All of my projects are available at [kristansmout.co.uk](https://www.kristansmout.co.uk)
+- 👨‍💻 All of my projects are available at [kristansmout.co.uk](https://kristansmout.co.uk)
 
 - 📫 How to reach me **contact@kristansmout.co.uk**
 
-- 📄 Know about my experiences [https://kristansmout.co.uk/about-me/](https://kristansmout.co.uk/about-me/)
+- 📄 Know about my experiences [https://kristansmout.co.uk/about-me/]([https://kristansmout.co.uk])
 
 - ⚡ Fun fact **The first computer bug was an actual bug**
 
