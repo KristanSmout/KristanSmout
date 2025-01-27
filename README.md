@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@kristansmout.co.uk**
 
-- 📄 Know about my experiences [https://kristansmout.co.uk/about-me/]([https://kristansmout.co.uk])
+- 📄 Know about my experiences [https://kristansmout.co.uk/about-me/](https://kristansmout.co.uk)
 
 - ⚡ Fun fact **The first computer bug was an actual bug**
 
