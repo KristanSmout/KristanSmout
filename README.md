@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [RobloxPy Rewrite](https://github.com/KristanSmout/RobloxPyOfficial)
 
-- 👨‍💻 All of my projects are available at [kristansmout.co.uk](kristansmout.co.uk)
+- 👨‍💻 All of my projects are available at [kristansmout.co.uk](https://www.kristansmout.co.uk)
 
 - 📫 How to reach me **contact@kristansmout.co.uk**
 
